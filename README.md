@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/carol-rocha-70a819247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/Carol-Rocha/Carol-Rocha/blob/output-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Carol-Rocha/Carol-Rocha/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **Carol-Rocha/Carol-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
