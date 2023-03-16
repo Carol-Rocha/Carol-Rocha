@@ -5,10 +5,10 @@
 
 <div >
 <a href="https://github.com/Carol-Rocha/github-readme-stats">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&show_icons=true&theme=radical" />
+  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Carol-Rocha/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&layout=compact&langs_count=8&theme=radical" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&layout=compact&langs_count=8&theme=radical" />
 </a>
 </div>
 
