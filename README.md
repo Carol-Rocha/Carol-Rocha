@@ -3,6 +3,15 @@
 - 🔭 Atualmente em formação na Kenzie Academy Brasil para me tornar uma futura desenvolvedora Fullstack
 - 🌱 Aprendendo Javascript
 
+<div >
+<a href="https://github.com/Carol-Rocha/github-readme-stats">
+  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Carol-Rocha/convoychat">
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&layout=compact&langs_count=8&theme=radical" />
+</a>
+</div>
+
 
 
 <div style="display: inline_block"><br>
@@ -26,14 +35,7 @@
   
 <!--
 
-<div >
-<a href="https://github.com/Carol-Rocha/github-readme-stats">
-  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Carol-Rocha/convoychat">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&layout=compact&langs_count=8&theme=radical" />
-</a>
-</div>
+
 
 
 **Carol-Rocha/Carol-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
