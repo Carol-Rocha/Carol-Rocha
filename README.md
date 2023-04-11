@@ -1,7 +1,7 @@
 ### Hi there, I'm Carol Rocha 👋 Welcome to my github
 ##
 - 🔭 Atualmente em formação na Kenzie Academy Brasil para me tornar uma futura desenvolvedora Fullstack
-- 🌱 Aprendendo Javascript
+- 🌱 Aprendendo SQL
 
 <div >
 <a href="https://github.com/Carol-Rocha/github-readme-stats">
