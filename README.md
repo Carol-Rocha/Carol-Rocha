@@ -1,7 +1,7 @@
 ### Hi there, I'm Carol Rocha 👋 Welcome to my github
 ##
 - 🔭 Atualmente em formação na Kenzie Academy Brasil para me tornar uma futura desenvolvedora Fullstack
-- 🌱 Aprendendo SQL
+- 🌱 Atualmente aprendendo python 
 
 <div >
 <a href="https://github.com/Carol-Rocha/github-readme-stats">
@@ -15,12 +15,17 @@
 
 
 <div style="display: inline_block"><br>
+    <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="Carol-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Carol-typeORM" height="30" width="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
+ <img align="center" alt="Carol-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ 
+ <img align="center" alt="Carol-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <br>
   <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_Zv0kRSBv.png">
 </div>
 
