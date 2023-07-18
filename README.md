@@ -1,14 +1,17 @@
 ### Hi there, I'm Carol Rocha 👋 Welcome to my github
 ##
-- 🔭 Atualmente em formação na Kenzie Academy Brasil para me tornar uma futura desenvolvedora Fullstack
-- 🌱 Atualmente aprendendo python 
+Desenvolvedora em formação na Kenzie Academy Brasil, com o objetivo de me tornar uma desenvolvedora Full Stack. 💻
+
+Tenho paixão por programação e estou constantemente buscando aprimorar minhas habilidades e conhecimentos. Atualmente, estou focada em me aprofundar em JavaScript e suas diversas ferramentas para construir aplicações web dinâmicas e interativas. 🌐
+
+No meu GitHub, você encontrará projetos pessoais e trabalhos realizados durante minha formação. Estou sempre aberta a colaborações e aprendizado conjunto, então sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. 🤝
 
 <div >
 <a href="https://github.com/Carol-Rocha/github-readme-stats">
-  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&theme=radical&count_private=true&show_icons=true" />
+  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/Carol-Rocha/convoychat">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&theme=radical&layout=compact&langs_count=8" />
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&count_private=true&theme=radical&layout=compact&langs_count=8" />
 </a>
 </div>
 
@@ -23,10 +26,10 @@
   <img align="center" alt="Carol-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carol-typeORM" height="30" width="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
  <img align="center" alt="Carol-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- 
  <img align="center" alt="Carol-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Carol-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <br>
-  <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/338224_Zv0kRSBv.png">
 </div>
 
 ##
@@ -36,6 +39,7 @@
   <a href="https://www.linkedin.com/in/carol-rocha-70a819247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--  <img align="right" alt="Carol-pic" height="150" style="border-radius: 50;" src="https://cdn.picrew.me/shareImg/org/202303/338224_Zv0kRSBv.png">
 
   
 <!--
