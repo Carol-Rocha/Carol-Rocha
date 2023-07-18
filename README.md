@@ -6,14 +6,7 @@ Tenho paixão por programação e estou constantemente buscando aprimorar minhas
 
 No meu GitHub, você encontrará projetos pessoais e trabalhos realizados durante minha formação. Estou sempre aberta a colaborações e aprendizado conjunto, então sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. 🤝
 
-<div >
-<a href="https://github.com/Carol-Rocha/github-readme-stats">
-  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&theme=radical&show_icons=true" />
-</a>
-<a href="https://github.com/Carol-Rocha/convoychat">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&count_private=true&theme=radical&layout=compact&langs_count=8" />
-</a>
-</div>
+
 
 
 
@@ -41,7 +34,15 @@ No meu GitHub, você encontrará projetos pessoais e trabalhos realizados durant
 
 <!--  <img align="right" alt="Carol-pic" height="150" style="border-radius: 50;" src="https://cdn.picrew.me/shareImg/org/202303/338224_Zv0kRSBv.png">
 
-  
+  <div >
+ <a href="https://github.com/Carol-Rocha/github-readme-stats">
+  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Carol-Rocha&count_private=true&theme=radical&show_icons=true" />
+</a>
+
+<a href="https://github.com/Carol-Rocha/convoychat">
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rocha&count_private=true&theme=radical&layout=compact&langs_count=8" />
+</a>
+</div>
 <!--
 
 
