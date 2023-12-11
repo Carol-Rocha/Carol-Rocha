@@ -1,6 +1,6 @@
 ### Hi there, I'm Carol Rocha 👋 Welcome to my github
 ##
-Desenvolvedora em formação na Kenzie Academy Brasil, com o objetivo de me tornar uma desenvolvedora Full Stack. 💻
+Desenvolvedora Full Stack. 💻
 
 Tenho paixão por programação e estou constantemente buscando aprimorar minhas habilidades e conhecimentos. Atualmente, estou focada em me aprofundar em JavaScript e suas diversas ferramentas para construir aplicações web dinâmicas e interativas. 🌐
 
