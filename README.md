@@ -1,14 +1,16 @@
-### Hi there, I'm Carol Rocha 👋 Welcome to my github
+### 👋 Hi, I’m Carol Rocha
 ##
-Desenvolvedora Full Stack. 💻
+Front-End Developer | Angular • TypeScript • JavaScript 💻
 
-Tenho paixão por programação e estou constantemente buscando aprimorar minhas habilidades e conhecimentos. Atualmente, estou focada em me aprofundar em JavaScript e suas diversas ferramentas para construir aplicações web dinâmicas e interativas. 🌐
+Sou desenvolvedora Front-End com experiência prática na construção de aplicações web escaláveis utilizando Angular, TypeScript e JavaScript. Atuo no desenvolvimento de novas funcionalidades, criação de interfaces de relatórios e implementação de filtros dinâmicos para manipulação de dados, sempre focando em performance, organização de código e experiência do usuário.
 
-No meu GitHub, você encontrará projetos pessoais e trabalhos realizados durante minha formação. Estou sempre aberta a colaborações e aprendizado conjunto, então sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. 🤝
+Tenho experiência com Angular Material, Git, Azure DevOps, Node.js, além de sólido entendimento de boas práticas de desenvolvimento. Também participei da migração de um projeto grande do Angular 14 para o Angular 19, garantindo compatibilidade, estabilidade e ganhos de performance.
 
+Antes de entrar na área de tecnologia, trabalhei por quase 5 anos em uma cooperativa de crédito, onde desenvolvi habilidades de comunicação, empatia e atendimento — competências que hoje fortalecem minha colaboração em equipe e compreensão das necessidades dos usuários.
 
+Aqui no GitHub, você encontrará projetos pessoais, estudos e códigos que refletem minha evolução como desenvolvedora. Estou sempre explorando novas ferramentas, aprendendo continuamente e aberta a colaborações.
 
-
+🚀 Focada em crescer, aprender e construir interfaces cada vez melhores.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,6 +18,7 @@ No meu GitHub, você encontrará projetos pessoais e trabalhos realizados durant
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carol-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Carol-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carol-typeORM" height="30" width="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
  <img align="center" alt="Carol-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -50,7 +53,6 @@ No meu GitHub, você encontrará projetos pessoais e trabalhos realizados durant
 
 **Carol-Rocha/Carol-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  ![Snake animation](https://github.com/Carol-Rocha/Carol-Rocha/blob/output/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 
